@@ -26,9 +26,20 @@
 
 // m.innerHTML=s
 
-let students=[
-    {name:"dinga",age:25,marks:620,imgurl:"https://m.media-amazon.com/images/I/41P4Al+S3zL._AC_SY200_.jpg"},
-    {name:"Sheela",age:18,marks:320,imgurl:"https://m.media-amazon.com/images/I/51NFeSAwNrL._AC_SY200_.jpg"},
+let students=
+[
+    {
+        name:"dinga",
+        age:25,
+        marks:620,
+        imgurl:"https://m.media-amazon.com/images/I/41P4Al+S3zL._AC_SY200_.jpg"
+    },
+    {
+        name:"Sheela",
+        age:18,
+        marks:320,
+        imgurl:"https://m.media-amazon.com/images/I/51NFeSAwNrL._AC_SY200_.jpg"
+    },
     {name:"Ramu",age:27,marks:520,imgurl:"https://m.media-amazon.com/images/I/51kinNsVtTL._AC_SY200_.jpg"},
     {name:"raja",age:22,marks:320,imgurl:"https://m.media-amazon.com/images/I/51huVCoeBNL._AC_SY200_.jpg"},
     {name:"Rani",age:17,marks:120,imgurl:"https://m.media-amazon.com/images/I/31MFQIpYG+L._AC_SY200_.jpg"}
