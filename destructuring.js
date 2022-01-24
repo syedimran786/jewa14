@@ -16,7 +16,7 @@ let student={name:"Dinga",age:23,dept:"Cse",gender:"male"};
 console.log(student);
 
 // console.log(student.name);
-// console.log(student.dept);
+// console.log(student.dept);reducer
 
 // let {name,age,dept,gender}=student;
 // console.log(name);
